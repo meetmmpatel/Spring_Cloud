@@ -1,0 +1,9 @@
+com/oneToMany/api/controller/PostController.class
+com/oneToMany/api/controller/CommentController.class
+com/oneToMany/api/repository/PostRepository.class
+com/oneToMany/api/model/Post.class
+com/oneToMany/api/model/Comment.class
+com/oneToMany/api/model/AuditModel.class
+com/oneToMany/api/repository/CommentRepository.class
+com/oneToMany/api/exception/ApiException.class
+com/oneToMany/api/RestApiOntToManyApplication.class

@@ -1,0 +1,9 @@
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/controller/CommentController.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/exception/ApiException.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/repository/CommentRepository.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/model/Comment.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/model/AuditModel.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/controller/PostController.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/RestApiOntToManyApplication.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/model/Post.java
+/Users/milanpatel/Desktop/FrontEnd_Session/Spring Cloud/Springboot_OneToMany-master/src/main/java/com/oneToMany/api/repository/PostRepository.java
